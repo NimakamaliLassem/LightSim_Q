@@ -1,0 +1,6 @@
+﻿  Nima_LightSQ.cpp
+C:\Users\Nima's Stuff\source\repos\LightSim_Q\LightSim_Q\Nima_LightSQ.cpp(258,30): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Nima's Stuff\source\repos\LightSim_Q\LightSim_Q\Nima_LightSQ.cpp(506,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  vec.cpp
+  Generating Code...
+  LightSim_Q.vcxproj -> C:\Users\Nima's Stuff\source\repos\LightSim_Q\Debug\LightSim_Q.exe
