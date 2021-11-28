@@ -3,7 +3,11 @@ Light simulation and use of Queue (Torpeado) in OpenGL Glut Library
 
 CREATOR : Nima Kamali Lassem
 ----------
+VS Community 2019 - OpenGL Glut - C 
+----------
 PROBLEMS: None that I noticed
+----------
+HOW TO USE GLUT IN VS 2019: https://www.youtube.com/watch?v=XOtY4yzitdk 
 ----------
 ADDITIONAL FEATURES:
 1.Menu screen
